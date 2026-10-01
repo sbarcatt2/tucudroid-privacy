@@ -9,6 +9,7 @@ Served with GitHub Pages from the `main` branch, root folder. The index at
 |---|---|---|
 | **WhatsAPI** | `com.tdroid.whatsapi` | <https://sbarcatt2.github.io/tucudroid-privacy/privacy-policy.html> |
 | **Cosmo Merge** | `com.cosmomerge.app` | <https://sbarcatt2.github.io/tucudroid-privacy/cosmo-merge/privacy-policy.html> (EN, with Spanish version at `#es`) |
+| **Cosmo Jet** | `com.cosmojet.app` | <https://sbarcatt2.github.io/tucudroid-privacy/cosmo-jet/privacy-policy.html> (EN, with Spanish version at `#es`) |
 
 These URLs are the ones registered in Google Play Console (App content → Privacy policy) and,
 where applicable, in AdMob.
